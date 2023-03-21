@@ -1,0 +1,34 @@
+{
+  "fortnite": {
+    "cid": "CID_028_Athena_Commando_F",
+    "bid": "BID_138_Celestial",
+    "eid": "EID_Kpopdance03",
+    "level": "420",
+    "banner": "InfluencerBanner38",
+    "add_users": true,
+    "leave_time": 90000,
+    "join_message": "🔥You have 1.5 minutes to ready up and get in a bot lobby!",
+    "invite_status": "🔥Invite: For bot lobbys!🔥",
+    "invite_onlinetype": "online",
+    "inuse_status": "🔥BOT IS IN USE WAIT!🔥",
+    "inuse_onlinetype": "away"
+  },
+
+  
+  "discord": {
+    "run_discord_client": true,
+    "guild_slash_status_response": "AjaxMM.1 is currently online!",
+    "command_guild": "1076734742541647883",
+    "status": "AjaxMM.1",
+    "status_type": "WATCHING"
+  },
+
+  
+  "system": {
+    "bot_loading_message": "Bot is loading!",
+    "web_message": "L use this for uptime"
+  }
+
+
+  
+}

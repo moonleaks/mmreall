@@ -1,32 +1,32 @@
 {
   "fortnite": {
-    "cid": "CID_028_Athena_Commando_F",
-    "bid": "BID_138_Celestial",
-    "eid": "EID_Kpopdance03",
-    "level": "420",
-    "banner": "InfluencerBanner38",
-    "add_users": true,
-    "leave_time": 90000,
-    "join_message": "🔥You have 1.5 minutes to ready up and get in a bot lobby!",
-    "invite_status": "🔥Invite: For bot lobbys!🔥",
+    "cid": "Character_TideKing_Regal",
+    "cid_path": "/Content/Athena/Items/Cosmetics/Characters/Character_TideKing_Regal",
+    "bid": "",
+    "bid_path": "",
+    "eid": "EID_Marvelous",
+    "eid_path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/EID_Marvelous",
+    "level": "1001",
+    "banner": "InfluencerBanner24",
+    "add_users": false,
+    "join_users": true,
+    "leave_after_success": true,
+    "leave_time": 999999,
+    "join_message": "Hi ",
+    "invite_status": "Bot | Invite 🌐",
     "invite_onlinetype": "online",
-    "inuse_status": "🔥BOT IS IN USE WAIT!🔥",
-    "inuse_onlinetype": "away"
-  },
-
-  
-  "discord": {
-    "run_discord_client": true,
-    "guild_slash_status_response": "AjaxMM.1 is currently online!",
-    "command_guild": "1076734742541647883",
-    "status": "AjaxMM.1",
-    "status_type": "WATCHING"
+    "inuse_status": "Bot | In-use 🌐",
+    "inuse_onlinetype": "away",
+    "whitelist": [
+      "d"
+    ]
   },
 
   
   "system": {
-    "bot_loading_message": "Bot is loading!",
-    "web_message": "L use this for uptime"
+    "reload": true,
+    "reload_time": 5400000,
+    "bot_version": "8.2"
   }
 
 
